@@ -6,7 +6,7 @@ namespace EjerciciosPOO
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Estoy en el main");
         }
     }
 }
