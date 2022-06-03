@@ -9,7 +9,7 @@ namespace EjerciciosPOO
     class Cuenta
     {
 
-        private Persona titular = new Persona();
+        public Persona titular = new Persona();
 
         private int cantDinero;
 
